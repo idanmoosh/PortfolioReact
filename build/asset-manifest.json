@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcabf7ae.css",
+    "main.js": "/static/js/main.66f1287b.js",
+    "static/js/787.e7e13b28.chunk.js": "/static/js/787.e7e13b28.chunk.js",
+    "static/media/pixels.jpg": "/static/media/pixels.54ff3521761c67ea1664.jpg",
+    "static/media/React_Synth.png": "/static/media/React_Synth.ff8691eb2803b9722384.png",
+    "static/media/Oil_Essence.png": "/static/media/Oil_Essence.cba5ed5bca4ecdcfb127.png",
+    "static/media/tournament generator.jpg": "/static/media/tournament generator.a66863db6b257c2a979f.jpg",
+    "static/media/pxArt.png": "/static/media/pxArt.06bae6f7b99c65ed97a5.png",
+    "index.html": "/index.html",
+    "main.fcabf7ae.css.map": "/static/css/main.fcabf7ae.css.map",
+    "main.66f1287b.js.map": "/static/js/main.66f1287b.js.map",
+    "787.e7e13b28.chunk.js.map": "/static/js/787.e7e13b28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcabf7ae.css",
+    "static/js/main.66f1287b.js"
+  ]
+}
