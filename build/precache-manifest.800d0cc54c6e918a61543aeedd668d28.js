@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "be2182332fb4aaa8304a",
+    "revision": "9797afab385b996595b8",
     "url": "/PortfolioReact/static/css/main.32bdcaae.chunk.css"
   },
   {
-    "revision": "be2182332fb4aaa8304a",
-    "url": "/PortfolioReact/static/js/main.2c1616c6.chunk.js"
+    "revision": "9797afab385b996595b8",
+    "url": "/PortfolioReact/static/js/main.b4429c14.chunk.js"
   },
   {
     "revision": "7b9d29e7ee922d27cde7",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/PortfolioReact/static/media/tournament generator.d2cd5850.jpg"
   },
   {
-    "revision": "8939ef2481b9338f9a0a0920072a6432",
+    "revision": "0313f44ea73b20596d818419fd007300",
     "url": "/PortfolioReact/index.html"
   }
 ];
