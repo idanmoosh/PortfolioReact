@@ -3,6 +3,7 @@ import syntronic from './media/React_Synth.png';
 import tournamentGenerator from './media/tournament generator.jpg';
 import { Project } from './Project';
 import './Work.css';
+import React from 'react';
 
 const projects = [
   {

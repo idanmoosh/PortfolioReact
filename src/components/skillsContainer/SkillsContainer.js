@@ -12,6 +12,7 @@ import {
   SiExpress,
 } from 'react-icons/si';
 import './skillContainer.css';
+import React from 'react';
 
 const skillList = {
   1: {

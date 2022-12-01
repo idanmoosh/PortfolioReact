@@ -1,5 +1,6 @@
 import './Work.css';
 import { BsGithub } from 'react-icons/bs';
+import React from 'react';
 
 export const Project = props => {
   const project = props.project;
@@ -15,7 +16,7 @@ export const Project = props => {
         </ul>
       </div>
       <p className='projectParagraph'>{project.details}</p>
-      <a href={project.gitLink} target='_blank' rel='noreferrer'>
+      <a href={project.gitLink} target='_blank' rel='noopener noreferrer'>
         <BsGithub /> GitHub Repository
       </a>
     </div>

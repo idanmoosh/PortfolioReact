@@ -1,5 +1,6 @@
 import './Home.css';
 import pixels from './pixels.jpg';
+import React from 'react';
 
 export function Home() {
   return (

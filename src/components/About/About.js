@@ -2,6 +2,7 @@ import './About.css';
 import pxArt from './pxArt.png';
 import { SkillsContainer } from '../skillsContainer/SkillsContainer';
 import { HobbiesContainer } from '../HobbiesContainer/HobbiesContainer';
+import React from 'react';
 
 export function About() {
   return (

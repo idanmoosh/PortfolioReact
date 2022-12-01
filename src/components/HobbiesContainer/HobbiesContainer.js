@@ -1,4 +1,5 @@
 import './HobbiesContainer.css';
+import React from 'react';
 import {
   IoAirplaneOutline,
   IoFootstepsOutline,
