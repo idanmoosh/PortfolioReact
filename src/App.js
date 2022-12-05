@@ -5,7 +5,8 @@ import { About } from './components/About/About';
 import { Work } from './components/Work/Work';
 import './App.css';
 import { Contact } from './components/Contact/Contact';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import { render } from '@testing-library/react';
 
 function App() {
   return (
@@ -13,7 +14,13 @@ function App() {
       <div className='App'>
         <Header />
         <Routes>
-          <Route path='/' element={<Home />} />
+          <Route
+            path='/'
+            render={() => {
+              return <Redirect to='/' />;
+            }}
+            element={<Home />}
+          />
           <Route path='/about' element={<About />} />
           <Route path='/work' element={<Work />} />
         </Routes>
