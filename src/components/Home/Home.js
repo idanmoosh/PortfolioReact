@@ -9,7 +9,6 @@ export function Home() {
       <section className='HomeSection'>
         <h2 className='h2'>Hello!</h2>
         <p>
-          {' '}
           I'm <span className='HomeSpan'>Idan</span>, a full stack developer
           based in Ramat-Gan. Looking for my next{' '}
           <span className='HomeSpan'>challenge</span>
