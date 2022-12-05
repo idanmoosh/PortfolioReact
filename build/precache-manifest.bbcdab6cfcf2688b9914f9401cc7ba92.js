@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "./static/media/tournament generator.d2cd5850.jpg"
   },
   {
-    "revision": "4182675aaad0fb00f3761d2c3d1d20e0",
+    "revision": "026bee134ca9b57df49028e04bca2b14",
     "url": "./index.html"
   }
 ];

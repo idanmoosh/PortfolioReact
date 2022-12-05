@@ -5,23 +5,21 @@ import { About } from './components/About/About';
 import { Work } from './components/Work/Work';
 import './App.css';
 import { Contact } from './components/Contact/Contact';
-import { Route } from './components/Route';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <div className='App'>
-      <Header />
-      <Route path='/'>
-        <Home />
-      </Route>
-      <Route path='/about'>
-        <About />
-      </Route>
-      <Route path='/work'>
-        <Work />
-      </Route>
-      <Contact />
-    </div>
+    <Router basename='/'>
+      <div className='App'>
+        <Header />
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/work' element={<Work />} />
+        </Routes>
+        <Contact />
+      </div>
+    </Router>
   );
 }
 
