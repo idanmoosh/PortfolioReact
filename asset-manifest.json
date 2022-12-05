@@ -1,20 +1,20 @@
 {
-  "main.css": "/PortfolioReact/static/css/main.32bdcaae.chunk.css",
-  "main.js": "/PortfolioReact/static/js/main.db7882b3.chunk.js",
-  "main.js.map": "/PortfolioReact/static/js/main.db7882b3.chunk.js.map",
-  "runtime~main.js": "/PortfolioReact/static/js/runtime~main.df15283b.js",
-  "runtime~main.js.map": "/PortfolioReact/static/js/runtime~main.df15283b.js.map",
-  "static/js/2.d4d30c96.chunk.js": "/PortfolioReact/static/js/2.d4d30c96.chunk.js",
-  "static/js/2.d4d30c96.chunk.js.map": "/PortfolioReact/static/js/2.d4d30c96.chunk.js.map",
-  "static/js/3.5e86fb12.chunk.js": "/PortfolioReact/static/js/3.5e86fb12.chunk.js",
-  "static/js/3.5e86fb12.chunk.js.map": "/PortfolioReact/static/js/3.5e86fb12.chunk.js.map",
-  "index.html": "/PortfolioReact/index.html",
-  "precache-manifest.f2e7ea89034f1b1c4efe3c386050bf9c.js": "/PortfolioReact/precache-manifest.f2e7ea89034f1b1c4efe3c386050bf9c.js",
-  "service-worker.js": "/PortfolioReact/service-worker.js",
-  "static/css/main.32bdcaae.chunk.css.map": "/PortfolioReact/static/css/main.32bdcaae.chunk.css.map",
-  "static/media/Oil_Essence.png": "/PortfolioReact/static/media/Oil_Essence.290ed061.png",
-  "static/media/React_Synth.png": "/PortfolioReact/static/media/React_Synth.4f6d1bdb.png",
-  "static/media/pixels.jpg": "/PortfolioReact/static/media/pixels.ea20df69.jpg",
-  "static/media/pxArt.png": "/PortfolioReact/static/media/pxArt.419d7954.png",
-  "static/media/tournament generator.jpg": "/PortfolioReact/static/media/tournament generator.d2cd5850.jpg"
+  "files": {
+    "main.css": "/PortfolioReact/static/css/main.fcabf7ae.css",
+    "main.js": "/PortfolioReact/static/js/main.1cb3c38d.js",
+    "static/js/787.e7e13b28.chunk.js": "/PortfolioReact/static/js/787.e7e13b28.chunk.js",
+    "static/media/pixels.jpg": "/PortfolioReact/static/media/pixels.54ff3521761c67ea1664.jpg",
+    "static/media/React_Synth.png": "/PortfolioReact/static/media/React_Synth.ff8691eb2803b9722384.png",
+    "static/media/Oil_Essence.png": "/PortfolioReact/static/media/Oil_Essence.cba5ed5bca4ecdcfb127.png",
+    "static/media/tournament generator.jpg": "/PortfolioReact/static/media/tournament generator.a66863db6b257c2a979f.jpg",
+    "static/media/pxArt.png": "/PortfolioReact/static/media/pxArt.06bae6f7b99c65ed97a5.png",
+    "index.html": "/PortfolioReact/index.html",
+    "main.fcabf7ae.css.map": "/PortfolioReact/static/css/main.fcabf7ae.css.map",
+    "main.1cb3c38d.js.map": "/PortfolioReact/static/js/main.1cb3c38d.js.map",
+    "787.e7e13b28.chunk.js.map": "/PortfolioReact/static/js/787.e7e13b28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcabf7ae.css",
+    "static/js/main.1cb3c38d.js"
+  ]
 }
