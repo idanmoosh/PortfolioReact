@@ -25,7 +25,7 @@ const HobbiesList = {
 export const HobbiesContainer = () => {
   return (
     <div className='HobbiesMain'>
-      <h2 className='HobbiesHeader'>Skills</h2>
+      <h2 className='HobbiesHeader'>Hobbies</h2>
       <div className='HobbiesContainer'>
         {Object.keys(HobbiesList).map(key => {
           return (

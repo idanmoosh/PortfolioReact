@@ -10,7 +10,10 @@ import {
   SiPython,
   SiGit,
   SiExpress,
+  SiPostgresql,
+  SiExpo,
 } from 'react-icons/si';
+import { AiOutlineConsoleSql } from 'react-icons/ai';
 import './skillContainer.css';
 import React from 'react';
 
@@ -62,6 +65,18 @@ const skillList = {
   12: {
     name: 'Express',
     logo: <SiExpress />,
+  },
+  13: {
+    name: 'Postgres',
+    logo: <SiPostgresql />,
+  },
+  14: {
+    name: 'SQL',
+    logo: <AiOutlineConsoleSql />,
+  },
+  15: {
+    name: 'Expo',
+    logo: <SiExpo />,
   },
 };
 

@@ -13,10 +13,10 @@ export function About() {
           <h2 className='aboutHeader'>About me</h2>
           <p className='aboutText'>
             I'm a developer who{' '}
-            <span className='aboutSpan'>loves creating</span> and building. with
-            vast <span className='aboutSpan'>experience in R&D processes.</span>
-            I can assure a clean and coherent code. Love working in groups and
-            alone.
+            <span className='aboutSpan'>loves creating</span> and building, with
+            vast{' '}
+            <span className='aboutSpan'>experience in R&D processes. </span>
+            I'm a great problem solver, and love working in teams and alone,
             <span className='aboutSpan'>
               {' '}
               welcoming each challenge with a smile.
